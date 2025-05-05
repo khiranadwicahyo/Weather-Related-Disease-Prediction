@@ -8,6 +8,7 @@ In this proeject we will be build the machine learning model to predicting the W
     ├── data/ # include raw data
     ├── notebooks/ # Notebook for EDA, Modelling and Evaluation
     ├── models/ # Model 
+    ├── outputs/ # Visualisation result
     └── README.md # Docomentation
 
 ## Datasets
