@@ -4,7 +4,7 @@
 ## About Project
 In this proeject we will be build the machine learning model to predicting the Weather-Related Disease datasets based on Prognosis variable on the data. The project including EDA (exploratory data analysis), building the model and tested, and evaluate the model. In order to make easy for the decision maker to take the decision, we also using two different model to explore the differences. 
 
-## Outline Project
+## Project Outline
     ├── data/ # include raw data
     ├── notebooks/ # Notebook for EDA, Modelling and Evaluation
     ├── models/ # Model 
@@ -31,7 +31,7 @@ The data has:
 
 
 ## Model
-There is two model that we use in this projects:
+There is two models that we use in this projects:
 
 **1. Random Forest:**
 
